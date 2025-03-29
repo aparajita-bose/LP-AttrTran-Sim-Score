@@ -1,6 +1,9 @@
-# Link Prediction with AttrTran Sim Score
+# LP-ATS (Link Prediction with AttrTran Sim Score)
 
-This project is the python code implementation of LP-ATS (Link Prediction with AttrTranSim Score) framework of the paper - "A Novel Similarity Score for Link Prediction Approach Using Financial Transaction Networks and Attribute of Firms"
+This project is the python code implementation of this journal paper - ["A Novel Similarity Score for Link Prediction Approach Using Financial Transaction Networks and Firms’ Attribute"](https://ieeexplore.ieee.org/abstract/document/10937185)
+
+- [1] A. Bose and B. Kim, "A Novel Similarity Score for Link Prediction Approach Using Financial Transaction Networks and Firms’ Attribute," in IEEE Access, vol. 13, pp. 52051-52068, 2025, doi: 10.1109/ACCESS.2025.3553795.
+
 
 ## Project Structure
 The notebook [nb-method-sample.ipynb](nb-method-sample.ipynb) loads and prepares the sample data from [data-sample.csv](data-sample.csv), runs the LP-ATS method to compute similarity score and measures AUC Score.
